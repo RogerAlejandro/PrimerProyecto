@@ -1,2 +1,4 @@
 Mis primeras notas para aprender GitHub.
 ¡Esto es divertido!
+
+renombré rama master a main, mandándome commit
